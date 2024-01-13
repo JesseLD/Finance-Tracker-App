@@ -1,18 +1,35 @@
-FRONT END
- Adicionar editar e excluir categoria
+FINANCE TRACKER
 
+  Recursos
+    - Categorias de gasto e custo 
+    - Login e Registro 
+    - Chave de Api 
+    - 
+    -  
+  
+
+
+
+
+
+FRONT END
+  - Adicionar editar e excluir categoria
 
 BACK END
+
+CICLO DE DESENVOLVIMENTO
+
+  - DTD
+  - DESENVOLVER
+  - TESTAR
+  - DOCUMENTAR
 	
 CATEGORIA
-  editar e excluir categoria
+  - Editar e excluir categoria
 	
 API
-  exclurir chave de api
-  gerar chave de api X
-  ativar ou desativar chave de api X
-  ativar descrição na chave de api X
-  evitar duplicidade apiKey X
+ 
+Q&A
 
-
-DOCUMENTAR
+  - Documentar
+  - Testes Automatizados ApiKey
