@@ -1,0 +1,18 @@
+FRONT END
+ Adicionar editar e excluir categoria
+
+
+BACK END
+	
+CATEGORIA
+  editar e excluir categoria
+	
+API
+  exclurir chave de api
+  gerar chave de api X
+  ativar ou desativar chave de api X
+  ativar descrição na chave de api X
+  evitar duplicidade apiKey X
+
+
+DOCUMENTAR
